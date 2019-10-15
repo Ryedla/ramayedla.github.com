@@ -5,14 +5,23 @@ date: "10/15/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## About
 
-## R Markdown
+My name is Rama Naidu Yedla, a passionate researcher on the biostatistics space applying Data Science. I play keyboard and researeching on the applications of ML on music
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Interests
 
+* Machine Learning
+* Cricket
+* Music
+
+## Profiles
+
+[LinkedIn](https://www.linkedin.com/in/ramayedla/)
+
+## Contact
+
+[rama.thursday@gmail.com](mailto:rama.thursday@gmail.com)
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r cars}
